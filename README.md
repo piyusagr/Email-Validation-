@@ -1,9 +1,11 @@
 # Email-Validation-
-<!-- # using  regex    and string function in phyton -->
+
+
+# using  regex    and string function in phyton
 
 
 
-# using regex function
+<!-- # using regex function
 
 if re.search(email_codition,user_email):
 
@@ -12,10 +14,10 @@ if re.search(email_codition,user_email):
 else:
 
     print(" Wrong Email ")
+ -->
 
 
-
-# using string function
+<!-- # using string function
 
 email=input("Enter the Email: ")
 
@@ -41,8 +43,8 @@ if len(email)>=6:
                             
                             j=1
                     
-                    elif i.isdigit():
-                        
+                    elif i.isdigit(): -->
+<!--                         
                         k=0
                     
                     elif i=="_"  or i=="." or i=="@":
@@ -64,7 +66,7 @@ if len(email)>=6:
         print(" Wrong Email ")
 else:
 
-    print(" Wrong Email ")
+    print(" Wrong Email ") -->
     
     
 ![image](https://user-images.githubusercontent.com/85010286/155887485-d5d39bf8-6868-444f-8185-647ffb4ae5ee.png)
