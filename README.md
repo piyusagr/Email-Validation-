@@ -50,7 +50,7 @@ else:
     print(" Wrong Email ")
     
     
-    ![image](https://user-images.githubusercontent.com/85010286/155887485-d5d39bf8-6868-444f-8185-647ffb4ae5ee.png)
+![image](https://user-images.githubusercontent.com/85010286/155887485-d5d39bf8-6868-444f-8185-647ffb4ae5ee.png)
     
-    ![image](https://user-images.githubusercontent.com/85010286/155887491-9e0e6ec5-90f6-4d98-8c3b-60e2f23f07df.png)
+![image](https://user-images.githubusercontent.com/85010286/155887491-9e0e6ec5-90f6-4d98-8c3b-60e2f23f07df.png)
 
